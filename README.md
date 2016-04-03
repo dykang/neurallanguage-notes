@@ -1,7 +1,7 @@
 # neurallanguage-notes
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACLE, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
-TODO
+#### TODO
 - Pointing the Unknown Words
 - Attend, Infer, Repeat Fast Scene Understanding with Generative Models
 - How NOT To Evaluate Your Dialogue System An Empirical Study of
@@ -11,8 +11,7 @@ TODO
 - LSTM-BASED DEEP LEARNING MODELS FOR NONFACTOID
 - Generating Visual Explanations
 
-2016-03
-- Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)]
- - grascale -> colors, CNN (conv-relu, wo pool) with supervision (class rebalance), fool human 20%
+#### 2016-03
+- Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
 
 
