@@ -15,6 +15,14 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems [[arxiv](http://arxiv.org/abs/1511.06931)]
 - The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations [[arxiv](http://arxiv.org/abs/1511.02301)]
 - Building Machines That Learn and Think Like People [[arxiv](Building Machines That Learn and Think Like People)]
+- A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories [[arxiv](https://arxiv.org/abs/1604.01696)]
+- Revisiting Summarization Evaluation for Scientific Articles [[arxiv](http://arxiv.org/abs/1604.00400)]
+- Reasoning About Pragmatics with Neural Listeners and Speakers [[arxiv](http://arxiv.org/abs/1604.00562)]
+- Character-Level Question Answering with Attention [[arxiv](http://arxiv.org/abs/1604.00727)]
+- Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1604.00734)]
+- Top-down Tree Long Short-Term Memory Networks [[arxiv](http://arxiv.org/abs/1511.00060)]
+- Recurrent Neural Network Grammars [[arxiv](http://arxiv.org/abs/1602.07776)]
+- Pointing the Unknown Words [[arxiv](http://arxiv.org/abs/1603.08148)]
 
 #### 2016-03
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
