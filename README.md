@@ -24,6 +24,16 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Recurrent Neural Network Grammars [[arxiv](http://arxiv.org/abs/1602.07776)]
 - Pointing the Unknown Words [[arxiv](http://arxiv.org/abs/1603.08148)]
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arxiv](http://scholar.google.com/scholar_url?url=https://research.google.com/pubs/archive/44927.pdf&hl=en&sa=X&scisig=AAGBfm2VedkF99f2i9IB7m_Ki5ELxJ-SCQ&nossl=1&oi=scholaralrt)]
+- Adversarial Autoencoders []
+- Listen, Attend and Spell: A Neural Network for Large Vocabulary Conversational Speech Recognition
+- Net2Net: Accelerating Learning via Knowledge Transfer
+- Neural Programmer: Inducing Latent Programs with Gradient Descent
+- A Neural Conversational Model
+- Document embedding with paragraph vectors
+- Neural Language Correction with Character-Based Attention [[arxiv](http://arxiv.org/abs/1603.09727)]
+- Modeling Relational Information in Question-Answer Pairs with Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1604.01178)]
+- Automatic Annotation of Structured Facts in Images
+- Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves [[arxiv](https://arxiv.org/abs/1604.02038)]
 
 #### 2016-03
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
