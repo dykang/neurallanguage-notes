@@ -34,6 +34,18 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Modeling Relational Information in Question-Answer Pairs with Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1604.01178)]
 - Automatic Annotation of Structured Facts in Images
 - Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves [[arxiv](https://arxiv.org/abs/1604.02038)]
+- Building Machines That Learn and Think Like People [[arxiv](http://arxiv.org/pdf/1604.00289.pdf)]
+- LARGER-CONTEXT LANGUAGE MODELLING WITH RECURRENT NEURAL NETWORK [[arxiv](http://arxiv.org/pdf/1511.03729v2.pdf)]
+- A Diversity-Promoting Objective Function for Neural Conversation Model [[arxiv](http://arxiv.org/pdf/1510.03055v2.pdf)]
+- TOWARDS PRINCIPLED UNSUPERVISED LEARNING [[arxiv](http://arxiv.org/pdf/1511.06440v2.pdf)]
+- Sentence-Level Grammatical Error Identification as Sequence-to-Sequence
+  Correction [[arxiv](https://arxiv.org/abs/1604.04677)]
+- Hierarchical Attention Networks for Document Classification [[arxiv](http://scholar.google.co.kr/scholar_url?url=http://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf&hl=ko&sa=X&scisig=AAGBfm3Yksk0QUL3dBcaokFPC3DOF8CFvg&nossl=1&oi=scholaralrt)]
+- Visual Storytelling [[arxiv](https://arxiv.org/abs/1604.03968)]
+- Using Sentence-Level LSTM Language Models for Script Inference [[arxiv](https://arxiv.org/abs/1604.02993)]
+- ABCNN: Attention-Based Convolutional Neural Network for Modeling
+  Sentence Pairs [[arxiv](https://arxiv.org/abs/1512.05193)]
+- Character-Level Question Answering with Attention [[arxiv](https://arxiv.org/abs/1604.00727)]
 
 #### 2016-03
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
