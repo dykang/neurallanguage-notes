@@ -46,6 +46,11 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - ABCNN: Attention-Based Convolutional Neural Network for Modeling
   Sentence Pairs [[arxiv](https://arxiv.org/abs/1512.05193)]
 - Character-Level Question Answering with Attention [[arxiv](https://arxiv.org/abs/1604.00727)]
+- Abstractive Text Summarization Using Sequence-to-Sequence RNNs and
+  Beyond [[arxiv](https://arxiv.org/abs/1602.06023)]
+- Sentence Compression by Deletion with LSTMs [[link](http://research.google.com/pubs/pub43852.html)]
+- A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arxiv](http://arxiv.org/abs/1504.00941)]
+- DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[arxiv](http://cs.stanford.edu/people/karpathy//densecap.pdf)]
 
 #### 2016-03
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
