@@ -51,6 +51,14 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Sentence Compression by Deletion with LSTMs [[link](http://research.google.com/pubs/pub43852.html)]
 - A Simple Way to Initialize Recurrent Networks of Rectified Linear Units [[arxiv](http://arxiv.org/abs/1504.00941)]
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[arxiv](http://cs.stanford.edu/people/karpathy//densecap.pdf)]
+- TRAINING NEURAL NETWORKS ON PARTITIONED TRAINING DATA [[paper]()]
+- Nonextensive information theoretical machine [[arxiv](https://arxiv.org/abs/1604.06153)]
+- Training Deep Nets with Sublinear Memory Cost [[arxiv](https://arxiv.org/abs/1604.06174)]
+- What we write about when we write about causality: Features of causal statements across large-scale social discourse [[arxiv](https://arxiv.org/abs/1604.05781)]
+- Dialog-based Language Learning [[arxiv](https://arxiv.org/abs/1604.06045)]
+- Question Answering via Integer Programming over Semi-Structured
+  Knowledge [[arxiv](https://arxiv.org/abs/1604.06076)]
+
 
 #### 2016-03
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
