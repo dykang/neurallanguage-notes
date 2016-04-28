@@ -63,4 +63,4 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Neural Generative Question Answering [[arxiv](https://arxiv.org/abs/1512.01337)]
 - Recurrent Memory Networks for Language Modeling [[arxiv](https://arxiv.org/abs/1601.01272)]
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
-- 
+- ...
