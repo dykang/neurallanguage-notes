@@ -1,5 +1,5 @@
-# neurallanguage-notes
-Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACLE, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
+# neural language notes
+Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
 - Pointing the Unknown Words
@@ -58,7 +58,9 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Dialog-based Language Learning [[arxiv](https://arxiv.org/abs/1604.06045)]
 - Question Answering via Integer Programming over Semi-Structured
   Knowledge [[arxiv](https://arxiv.org/abs/1604.06076)]
-
-
-#### 2016-03
+- Dialog-based Language Learning [[arxiv](http://arxiv.org/pdf/1604.06045.pdf)]
+- Bridging LSTM Architecture and the Neural Dynamics during Reading [[arxiv](https://arxiv.org/abs/1604.06635)]
+- Neural Generative Question Answering [[arxiv](https://arxiv.org/abs/1512.01337)]
+- Recurrent Memory Networks for Language Modeling [[arxiv](https://arxiv.org/abs/1601.01272)]
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
+- 
