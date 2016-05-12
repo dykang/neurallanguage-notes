@@ -2,6 +2,19 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- Chained Predictions Using Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1605.02346)]
+- Boltzmann meets Nash: Energy-efficient routing in optical networks under uncertainty [[arxiv](https://arxiv.org/abs/1605.01451)]
+- Modeling Rich Contexts for Sentiment Classification with LSTM [[arxiv](https://arxiv.org/abs/1605.01478)]
+- Incorporating Selectional Preferences in Multi-hop Relation Extraction [[naacl16](http://rajarshd.github.io/papers/naaclakbc2016.pdf)]
+- Word Ordering Without Syntax [[arxiv](http://arxiv.org/pdf/1604.08633.pdf)]
+- Compositional Sentence Representation from Character within Large Context Text [[arxiv](https://arxiv.org/abs/1605.00482)]
+- Abstractive Sentence Summarization with Attentive Recurrent Neural Networks [[arxiv](http://harvardnlp.github.io/papers/naacl16_summary.pdf)]
+- Mixed Incremental Cross-Entropy REINFORCE ICLR 2016 [[github](https://github.com/facebookresearch/MIXER)]
+- A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow. [[github](https://github.com/blei-lab/edward)]
+- Towards Conceptual Compression [[arxiv](https://arxiv.org/abs/1604.08772)]
+- Teaching natural language to computers [[arxiv](https://arxiv.org/abs/1604.08781)]
+- 
+
 - Pointing the Unknown Words
 - Attend, Infer, Repeat Fast Scene Understanding with Generative Models
 - How NOT To Evaluate Your Dialogue System An Empirical Study of
