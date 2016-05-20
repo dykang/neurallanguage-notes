@@ -2,6 +2,32 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+
+- odelling Interaction of Sentence Pair with coupled-LSTMs [[arsiv](https://arxiv.org/abs/1605.05573)]
+- Recurrent Neural Network for Text Classification with Multi-Task
+  Learning [[arxiv](https://arxiv.org/abs/1605.05101)]
+- Incorporating Loose-Structured Knowledge into LSTM with Recall Gate for Conversation Modeling [[arxiv](https://arxiv.org/abs/1605.05110)]
+- Rationale-Augmented Convolutional Neural Networks for Text
+  Classification [[arxiv](https://arxiv.org/abs/1605.04469)]
+- Reducing the Model Order of Deep Neural Networks Using Information
+  Theory [[arxiv](https://arxiv.org/abs/1605.04859)]
+- Compressing Word Embeddings [[arxiv](https://arxiv.org/abs/1511.06397)]
+- Joint Event Extraction via Recurrent Neural Networks [[paper](http://scholar.google.co.kr/scholar_url?url=http://www.cs.nyu.edu/~thien/pubs/jointEE.pdf&hl=en&sa=X&scisig=AAGBfm1wUfB2tSO_zEvLwf0tPHJ1igLihw&nossl=1&oi=scholaralrt)]
+- Noisy Parallel Approximate Decoding for Conditional Recurrent Language Model [[paper](http://scholar.google.co.kr/scholar_url?url=http://arxiv.org/pdf/1605.03835&hl=en&sa=X&scisig=AAGBfm0D7ymB1zzlOBj8mGIrF47mc-7j0g&nossl=1&oi=scholaralrt)]
+- Joint Extraction of Events and Entities within a Document Context [[paper](http://scholar.google.co.kr/scholar_url?url=http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf&hl=en&sa=X&scisig=AAGBfm12l_rfjffmHbRAg6VW26V4nSvhtQ&nossl=1&oi=scholaralrt)]
+- Natural Language Semantics and Computability [[arxiv](https://arxiv.org/abs/1605.04122)]
+- Transfer Hashing with Privileged Information [[arxiv](https://arxiv.org/abs/1605.04034)]
+- Natural Language Inference by Tree-Based Convolution and Heuristic
+  Matching [[arxiv](https://arxiv.org/abs/1512.08422)]
+- Generating Sentences from a Continuous Space [[arxiv](https://arxiv.org/abs/1511.06349)]
+- Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic
+  Representation Learning [[arxiv](https://arxiv.org/abs/1605.03832)]
+- Learning the Curriculum with Bayesian Optimization for Task-Specific
+  Word Representation Learning [[arxiv](https://arxiv.org/abs/1605.03852)]
+- Vocabulary Manipulation for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1605.03209)]
+- Tweet2Vec: Character-Based Distributed Representations for Social Media [[arxiv](https://arxiv.org/abs/1605.03481)]
+------------------
+
 - Chained Predictions Using Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1605.02346)]
 - Boltzmann meets Nash: Energy-efficient routing in optical networks under uncertainty [[arxiv](https://arxiv.org/abs/1605.01451)]
 - Modeling Rich Contexts for Sentiment Classification with LSTM [[arxiv](https://arxiv.org/abs/1605.01478)]
@@ -11,10 +37,8 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Abstractive Sentence Summarization with Attentive Recurrent Neural Networks [[arxiv](http://harvardnlp.github.io/papers/naacl16_summary.pdf)]
 - Mixed Incremental Cross-Entropy REINFORCE ICLR 2016 [[github](https://github.com/facebookresearch/MIXER)]
 - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow. [[github](https://github.com/blei-lab/edward)]
-- Towards Conceptual Compression [[arxiv](https://arxiv.org/abs/1604.08772)]
+- Towards Conceptual Compression [[arxiv](https://arxiv.org/abs/1604.08772)]]
 - Teaching natural language to computers [[arxiv](https://arxiv.org/abs/1604.08781)]
-- 
-
 - Pointing the Unknown Words
 - Attend, Infer, Repeat Fast Scene Understanding with Generative Models
 - How NOT To Evaluate Your Dialogue System An Empirical Study of
