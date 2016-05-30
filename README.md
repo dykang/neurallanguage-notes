@@ -2,7 +2,13 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07154&hl=en&sa=X&scisig=AAGBfm2Lak8dC2i-uqNOWf_1NddCevSRsw&nossl=1&oi=scholaralrt)]
+- Generative Adversarial Text to Image Synthesis [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.05396&hl=en&sa=X&scisig=AAGBfm0q012JcYES6VnPaC7f1CA6iVu4Qw&nossl=1&oi=scholaralrt)]
+- Query-Efficient Imitation Learning for End-to-End Autonomous Driving [[arxiv](http://scholar.google.co.kr/scholar_url?url=http://arxiv.org/pdf/1605.06450&hl=en&sa=X&scisig=AAGBfm3X_JBDyl61ASoWJEC5dnjFfVG22Q&nossl=1&oi=scholaralrt)]
+- Hierarchical Memory Networks [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07427&hl=en&sa=X&scisig=AAGBfm04HflMsgH5-Gm787iS-Oa_p4vKFA&nossl=1&oi=scholaralrt)]
+- 
 
+------------------
 - odelling Interaction of Sentence Pair with coupled-LSTMs [[arsiv](https://arxiv.org/abs/1605.05573)]
 - Recurrent Neural Network for Text Classification with Multi-Task
   Learning [[arxiv](https://arxiv.org/abs/1605.05101)]
@@ -27,7 +33,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Vocabulary Manipulation for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1605.03209)]
 - Tweet2Vec: Character-Based Distributed Representations for Social Media [[arxiv](https://arxiv.org/abs/1605.03481)]
 ------------------
-
 - Chained Predictions Using Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1605.02346)]
 - Boltzmann meets Nash: Energy-efficient routing in optical networks under uncertainty [[arxiv](https://arxiv.org/abs/1605.01451)]
 - Modeling Rich Contexts for Sentiment Classification with LSTM [[arxiv](https://arxiv.org/abs/1605.01478)]
