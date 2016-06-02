@@ -20,6 +20,9 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Inferring logical forms from denotations
 - How much is 131 million dollars? putting numbers in perspective with compositional descriptions
 - Learning to Generate with Memory [[arxiv](https://arxiv.org/abs/1602.07416)]
+- Attention Correctness in Neural Image Captioning [[arxiv](https://arxiv.org/abs/1605.09553)]
+- Contextual LSTM (CLSTM) models for Large scale NLP tasks [[arxiv](https://arxiv.org/abs/1602.06291)]
+- 
 
 ------------------
 - Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07154&hl=en&sa=X&scisig=AAGBfm2Lak8dC2i-uqNOWf_1NddCevSRsw&nossl=1&oi=scholaralrt)]
