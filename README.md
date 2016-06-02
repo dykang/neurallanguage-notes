@@ -2,12 +2,30 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/abs/1605.06069)]
+- One-shot Learning with Memory-Augmented Neural Networks [[arxiv](https://arxiv.org/abs/1605.06065)]
+- Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431)]
+- Dialog-based Language Learning [[arxiv](https://arxiv.org/abs/1604.06045)]
+- Modelling Interaction of Sentence Pair with coupled-LSTMs [[arxiv](https://arxiv.org/abs/1605.05573)]
+- Functional Hashing for Compressing Neural Networks [[arxiv](https://arxiv.org/abs/1605.06560)]
+- Combining Recurrent and Convolutional Neural Networks for Relation Classification [[arxiv](https://arxiv.org/abs/1605.07333)]
+- Learning End-to-End Goal-Oriented Dialog [[arxiv](https://arxiv.org/abs/1605.07683)]
+- Variational Neural Machine Translation [[arxiv](https://arxiv.org/abs/1605.07869)]
+- BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings [[arxiv](https://arxiv.org/abs/1605.07874)]
+- Encode, Review, and Decode: Reviewer Module for Caption Generation [[arxiv](https://arxiv.org/abs/1605.07912)]
+- Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey [[arxiv](https://arxiv.org/abs/1605.07895)]
+- A Convolutional Attention Network for Extreme Summarization of Source Code [[arxiv](https://arxiv.org/abs/1602.03001)]
+- Learning language games through interaction
+- Data recombination for neural semantic parsing.
+- Inferring logical forms from denotations
+- How much is 131 million dollars? putting numbers in perspective with compositional descriptions
+- Learning to Generate with Memory [[arxiv](https://arxiv.org/abs/1602.07416)]
+
+------------------
 - Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07154&hl=en&sa=X&scisig=AAGBfm2Lak8dC2i-uqNOWf_1NddCevSRsw&nossl=1&oi=scholaralrt)]
 - Generative Adversarial Text to Image Synthesis [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.05396&hl=en&sa=X&scisig=AAGBfm0q012JcYES6VnPaC7f1CA6iVu4Qw&nossl=1&oi=scholaralrt)]
 - Query-Efficient Imitation Learning for End-to-End Autonomous Driving [[arxiv](http://scholar.google.co.kr/scholar_url?url=http://arxiv.org/pdf/1605.06450&hl=en&sa=X&scisig=AAGBfm3X_JBDyl61ASoWJEC5dnjFfVG22Q&nossl=1&oi=scholaralrt)]
 - Hierarchical Memory Networks [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07427&hl=en&sa=X&scisig=AAGBfm04HflMsgH5-Gm787iS-Oa_p4vKFA&nossl=1&oi=scholaralrt)]
-- 
-
 ------------------
 - odelling Interaction of Sentence Pair with coupled-LSTMs [[arsiv](https://arxiv.org/abs/1605.05573)]
 - Recurrent Neural Network for Text Classification with Multi-Task
