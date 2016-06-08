@@ -2,6 +2,19 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- A Decomposable Attention Model for Natural Language Inference [[arxiv](https://arxiv.org/abs/1606.01933)]
+- CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases [[arxiv](https://arxiv.org/abs/1606.01994)]
+- Memory-enhanced Decoder for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1606.02003)]
+- Incorporating Discrete Translation Lexicons into Neural Machine [[arxiv](https://arxiv.org/abs/1606.02006)]
+- Can neural machine translation do simultaneous translation? [[arxiv](https://arxiv.org/abs/1606.02012)]
+- Iterative Alternating Neural Attention for Machine Reading [[arxiv](https://arxiv.org/abs/1606.02245)]
+- Language to Logical Form with Neural Attention [[arxiv](https://arxiv.org/abs/1601.01280)]
+- Modeling Coverage for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1601.04811)]
+- Neural Summarization by Extracting Sentences and Words [[arxiv](https://arxiv.org/abs/1603.07252)]
+- Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](http://arxiv.org/pdf/1606.00776.pdf)]
+- Generalizing and Hybridizing Count-based and Neural Language Models [[arxiv](http://arxiv.org/pdf/1606.00499.pdf)]
+- 
+---
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/abs/1605.06069)]
 - One-shot Learning with Memory-Augmented Neural Networks [[arxiv](https://arxiv.org/abs/1605.06065)]
 - Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431)]
