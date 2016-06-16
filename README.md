@@ -2,11 +2,11 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
- - Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
- - DeepMath - Deep Sequence Models for Premise Selection [[arxiv](https://arxiv.org/pdf/1606.04442v1.pdf)]
- - A Fast Unified Model for Parsing and Sentence Understanding [[arxiv](https://arxiv.org/pdf/1603.06021v2.pdf)]
- - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/pdf/1605.06069v3.pdf)]
- - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](https://arxiv.org/pdf/1606.00776v2.pdf)]
+- Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
+- DeepMath - Deep Sequence Models for Premise Selection [[arxiv](https://arxiv.org/pdf/1606.04442v1.pdf)]
+- A Fast Unified Model for Parsing and Sentence Understanding [[arxiv](https://arxiv.org/pdf/1603.06021v2.pdf)]
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/pdf/1605.06069v3.pdf)]
+- Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](https://arxiv.org/pdf/1606.00776v2.pdf)]
 - Sequence-to-Sequence Learning as Beam-Search Optimization [[arxiv](http://arxiv.org/pdf/1606.02960.pdf)] 
 - Tables as Semi-structured Knowledge for Question Answering [[arxiv](http://ai2-website.s3.amazonaws.com/publications/FRETS-ACL-2016.pdf)]
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arxiv](http://arxiv.org/pdf/1506.07285v5.pdf)]
@@ -14,9 +14,28 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - http://homes.cs.washington.edu/~nasmith/papers/flanigan+dyer+smith+carbonell.naacl16.pdf [[arxiv](http://homes.cs.washington.edu/~nasmith/papers/flanigan+dyer+smith+carbonell.naacl16.pdf)]
 - Iterative Alternating Neural Attention for Machine Reading [[arxiv](http://arxiv.org/pdf/1606.02245.pdf)]
 - Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arxiv](http://arxiv.org/pdf/1606.01305.pdf)]
-
+- Vector-based Models of Semantic Composition [[arxiv](https://www.aclweb.org/anthology/P/P08/P08-1028.pdf)]
+ - additive composition best
+- Generating Natural Language Inference Chains [[arxiv](https://arxiv.org/pdf/1606.01404v1.pdf)]
+- Learning to Compose Neural Networks for Question Answering [[arxiv](https://arxiv.org/pdf/1601.01705v4.pdf)]
+- A Latent Variable Recurrent Neural Network for Discourse Relation Language Models [[arxiv](http://arxiv.org/pdf/1603.01913v2.pdf)]
+- Data Recombination for Neural Semantic Parsing [[arxiv](https://arxiv.org/pdf/1606.03622v1.pdf)]
+- Natural Language Generation in Dialogue using Lexicalized and Delexicalized Data [[arxiv](https://arxiv.org/pdf/1606.03632v1.pdf)]
+- Deep Reinforcement Learning with a Combinatorial Action Space for Predicting and Tracking Popular Discussion Threads [[arxiv](https://arxiv.org/pdf/1606.03667v1.pdf)]
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arxiv](https://arxiv.org/pdf/1606.03657v1.pdf)]
+- A Diversity-Promoting Objective Function for Neural Conversation Models [[arxiv](https://arxiv.org/pdf/1510.03055v3.pdf)]
+- Neural Associative Memory for Dual-Sequence Modeling [[arxiv](https://arxiv.org/pdf/1606.03864v2.pdf)]
+- Key-Value Memory Networks for Directly Reading Documents [[arxiv](https://arxiv.org/pdf/1606.03126v1.pdf)]
+- Simple Question Answering by Attentive Convolutional Neural Network [[arxiv](https://arxiv.org/pdf/1606.03391v1.pdf)]
+- Neural Network-Based Abstract Generation for Opinions and Arguments [[arxiv](https://arxiv.org/pdf/1606.02785v1.pdf)]
+- A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arxiv](https://arxiv.org/pdf/1606.02858v1.pdf)]
+- Generating Natural Questions About an Image [[arxiv](https://arxiv.org/pdf/1603.06059v3.pdf)]
+- Continuously Learning Neural Dialogue Management [[arxiv](https://arxiv.org/pdf/1606.02689v1.pdf)]
+- A Persona-Based Neural Conversation Model [[arxiv](https://arxiv.org/pdf/1603.06155v2.pdf)]
+- Deep Reinforcement Learning for Dialogue Generation [[arxiv](https://arxiv.org/pdf/1606.01541v2.pdf)]
 
 - A Decomposable Attention Model for Natural Language Inference [[arxiv](https://arxiv.org/abs/1606.01933)]
+ - attention matrixs to decompose the problem into subproblems that can be solved separately
 - CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases [[arxiv](https://arxiv.org/abs/1606.01994)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1606.02003)]
 - Incorporating Discrete Translation Lexicons into Neural Machine [[arxiv](https://arxiv.org/abs/1606.02006)]
