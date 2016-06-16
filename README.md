@@ -2,6 +2,20 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+ - Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
+ - DeepMath - Deep Sequence Models for Premise Selection [[arxiv](https://arxiv.org/pdf/1606.04442v1.pdf)]
+ - A Fast Unified Model for Parsing and Sentence Understanding [[arxiv](https://arxiv.org/pdf/1603.06021v2.pdf)]
+ - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/pdf/1605.06069v3.pdf)]
+ - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](https://arxiv.org/pdf/1606.00776v2.pdf)]
+- Sequence-to-Sequence Learning as Beam-Search Optimization [[arxiv](http://arxiv.org/pdf/1606.02960.pdf)] 
+- Tables as Semi-structured Knowledge for Question Answering [[arxiv](http://ai2-website.s3.amazonaws.com/publications/FRETS-ACL-2016.pdf)]
+- Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arxiv](http://arxiv.org/pdf/1506.07285v5.pdf)]
+- Dynamic Memory Networks for Visual and Textual Question Answering [[arxiv](https://arxiv.org/pdf/1603.01417v1.pdf)]
+- http://homes.cs.washington.edu/~nasmith/papers/flanigan+dyer+smith+carbonell.naacl16.pdf [[arxiv](http://homes.cs.washington.edu/~nasmith/papers/flanigan+dyer+smith+carbonell.naacl16.pdf)]
+- Iterative Alternating Neural Attention for Machine Reading [[arxiv](http://arxiv.org/pdf/1606.02245.pdf)]
+- Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arxiv](http://arxiv.org/pdf/1606.01305.pdf)]
+
+
 - A Decomposable Attention Model for Natural Language Inference [[arxiv](https://arxiv.org/abs/1606.01933)]
 - CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases [[arxiv](https://arxiv.org/abs/1606.01994)]
 - Memory-enhanced Decoder for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1606.02003)]
@@ -13,8 +27,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Neural Summarization by Extracting Sentences and Words [[arxiv](https://arxiv.org/abs/1603.07252)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](http://arxiv.org/pdf/1606.00776.pdf)]
 - Generalizing and Hybridizing Count-based and Neural Language Models [[arxiv](http://arxiv.org/pdf/1606.00499.pdf)]
-- 
----
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/abs/1605.06069)]
 - One-shot Learning with Memory-Augmented Neural Networks [[arxiv](https://arxiv.org/abs/1605.06065)]
 - Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431)]
@@ -35,14 +47,10 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Learning to Generate with Memory [[arxiv](https://arxiv.org/abs/1602.07416)]
 - Attention Correctness in Neural Image Captioning [[arxiv](https://arxiv.org/abs/1605.09553)]
 - Contextual LSTM (CLSTM) models for Large scale NLP tasks [[arxiv](https://arxiv.org/abs/1602.06291)]
-- 
-
-------------------
 - Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07154&hl=en&sa=X&scisig=AAGBfm2Lak8dC2i-uqNOWf_1NddCevSRsw&nossl=1&oi=scholaralrt)]
 - Generative Adversarial Text to Image Synthesis [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.05396&hl=en&sa=X&scisig=AAGBfm0q012JcYES6VnPaC7f1CA6iVu4Qw&nossl=1&oi=scholaralrt)]
 - Query-Efficient Imitation Learning for End-to-End Autonomous Driving [[arxiv](http://scholar.google.co.kr/scholar_url?url=http://arxiv.org/pdf/1605.06450&hl=en&sa=X&scisig=AAGBfm3X_JBDyl61ASoWJEC5dnjFfVG22Q&nossl=1&oi=scholaralrt)]
 - Hierarchical Memory Networks [[arxiv](http://scholar.google.com/scholar_url?url=http://arxiv.org/pdf/1605.07427&hl=en&sa=X&scisig=AAGBfm04HflMsgH5-Gm787iS-Oa_p4vKFA&nossl=1&oi=scholaralrt)]
-------------------
 - odelling Interaction of Sentence Pair with coupled-LSTMs [[arsiv](https://arxiv.org/abs/1605.05573)]
 - Recurrent Neural Network for Text Classification with Multi-Task
   Learning [[arxiv](https://arxiv.org/abs/1605.05101)]
@@ -66,7 +74,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
   Word Representation Learning [[arxiv](https://arxiv.org/abs/1605.03852)]
 - Vocabulary Manipulation for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1605.03209)]
 - Tweet2Vec: Character-Based Distributed Representations for Social Media [[arxiv](https://arxiv.org/abs/1605.03481)]
-------------------
 - Chained Predictions Using Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1605.02346)]
 - Boltzmann meets Nash: Energy-efficient routing in optical networks under uncertainty [[arxiv](https://arxiv.org/abs/1605.01451)]
 - Modeling Rich Contexts for Sentiment Classification with LSTM [[arxiv](https://arxiv.org/abs/1605.01478)]
