@@ -2,6 +2,8 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- some notes from NAACL'16 Deep Learning panel discussion
+ - Jacob Eisenstein made an observation, "In NLP, the things we do well on are things where context doesn't matter."
 - Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
 - DeepMath - Deep Sequence Models for Premise Selection [[arxiv](https://arxiv.org/pdf/1606.04442v1.pdf)]
 - A Fast Unified Model for Parsing and Sentence Understanding [[arxiv](https://arxiv.org/pdf/1603.06021v2.pdf)]
