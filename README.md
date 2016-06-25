@@ -2,6 +2,19 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- The LAMBADA dataset: Word prediction requiring a broad discourse context [[arxiv](http://arxiv.org/pdf/1606.06031v1.pdf)]
+- DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[link](http://cs.stanford.edu/people/karpathy/densecap.pdf)]
+- Visualizing Dynamics: from t-SNE to SEMI-MDPs [[arxiv](https://arxiv.org/pdf/1606.07112v1.pdf)]
+- Algorithmic Composition of Melodies with Deep Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1606.07251v1.pdf)]
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arxiv](http://arxiv.org/pdf/1606.03657.pdf)]
+- Deep Reinforcement Learning for Dialogue Generation [[arxiv](http://arxiv.org/pdf/1606.01541.pdf)]
+- Key-Value Memory Networks for Directly Reading Documents [[arxiv]()]
+- A Correlational Encoder Decoder Architecture for Pivot Based Sequence Generation [[arxiv](http://arxiv.org/pdf/1606.04754.pdf)]
+- The Word Entropy of Natural Languages [[arxiv](https://arxiv.org/pdf/1606.06996v1.pdf)]
+- Semantic Parsing to Probabilistic Programs for Situated Question Answering [[arxiv](https://arxiv.org/pdf/1606.07046v1.pdf)]
+- Critical Behavior from Deep Dynamics: A Hidden Dimension in Natural Language [[arxiv](https://arxiv.org/pdf/1606.06737v1.pdf)]
+- Inferring Logical Forms From Denotations [[arxiv](https://arxiv.org/pdf/1606.06900v1.pdf)]
+
 - some notes from NAACL'16 Deep Learning panel discussion
  - Jacob Eisenstein made an observation, "In NLP, the things we do well on are things where context doesn't matter."
 - Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
