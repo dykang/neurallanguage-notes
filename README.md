@@ -2,6 +2,17 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- Compression of Neural Machine Translation Models via Pruning [[arxiv](https://arxiv.org/abs/1606.09274)]
+- Sort Story: Sorting Jumbled Images and Captions into Stories [[arxiv](https://arxiv.org/abs/1606.07493)]
+- Dialog state tracking, a machine reading approach using a memory-enhanced neural network [[arxiv](https://arxiv.org/abs/1606.04052)]
+- Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context [[arxiv](https://arxiv.org/abs/1606.08425)]
+- Learning Generative ConvNet with Continuous Latent Factors by Alternating Back-Propagation [[arxiv](https://arxiv.org/pdf/1606.08571v1.pdf)]
+- Topic Augmented Neural Response Generation with a Joint Attention Mechanism [[arxiv](https://arxiv.org/pdf/1606.08340v1.pdf)]
+- STransE: a novel embedding model of entities and relationships in knowledge bases [[arxiv](https://arxiv.org/pdf/1606.08140v1.pdf)]
+- Functional Distributional Semantics [[arxiv](https://arxiv.org/pdf/1606.08003v1.pdf)]
+- Sequence-Level Knowledge Distillation [[arxiv](https://arxiv.org/pdf/1606.07947v1.pdf)]
+
+
 - The LAMBADA dataset: Word prediction requiring a broad discourse context [[arxiv](http://arxiv.org/pdf/1606.06031v1.pdf)]
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[link](http://cs.stanford.edu/people/karpathy/densecap.pdf)]
 - Visualizing Dynamics: from t-SNE to SEMI-MDPs [[arxiv](https://arxiv.org/pdf/1606.07112v1.pdf)]
@@ -14,7 +25,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Semantic Parsing to Probabilistic Programs for Situated Question Answering [[arxiv](https://arxiv.org/pdf/1606.07046v1.pdf)]
 - Critical Behavior from Deep Dynamics: A Hidden Dimension in Natural Language [[arxiv](https://arxiv.org/pdf/1606.06737v1.pdf)]
 - Inferring Logical Forms From Denotations [[arxiv](https://arxiv.org/pdf/1606.06900v1.pdf)]
-
 - some notes from NAACL'16 Deep Learning panel discussion
  - Jacob Eisenstein made an observation, "In NLP, the things we do well on are things where context doesn't matter."
 - Rationalizing Neural Predictions [[arxiv](https://arxiv.org/pdf/1606.04155v1.pdf)]
