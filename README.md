@@ -2,6 +2,19 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### TODO
+- Target-Side Context for Discriminative Models in Statistical Machine Translation [[arxiv](https://arxiv.org/pdf/1607.01149v1.pdf)]
+- Domain Adaptation for Neural Networks by Parameter Augmentation [[arxiv](https://arxiv.org/pdf/1607.00410v1.pdf)]
+- Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization [[arxiv](https://arxiv.org/pdf/1607.00718v1.pdf)]
+- Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arxiv](https://arxiv.org/pdf/1607.00036v1.pdf)]
+- Neural Summarization by Extracting Sentences and Words [[arxiv](https://arxiv.org/pdf/1603.07252v3.pdf)]
+- Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks [[arxiv](http://arxiv.org/pdf/1606.07461.pdf)]
+- Sequence-Level Knowledge Distillation [[arxiv](http://arxiv.org/pdf/1606.07947.pdf)]
+- Text Understanding with the Attention Sum Reader Network [[arxiv](https://arxiv.org/pdf/1603.01547v2.pdf)]
+- Query-Regression Networks for Machine Comprehension [[arxiv](https://arxiv.org/pdf/1606.04582v1.pdf)]
+- A Correlational Encoder Decoder Architecture for Pivot Based Sequence Generation [[arxiv](https://arxiv.org/pdf/1606.04754v1.pdf)]
+- Smart Reply: Automated Response Suggestion for Email [[arxiv](https://arxiv.org/pdf/1606.04870v1.pdf)]
+- Minimum Risk Training for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1512.02433v3.pdf)]
+
 - Compression of Neural Machine Translation Models via Pruning [[arxiv](https://arxiv.org/abs/1606.09274)]
 - Sort Story: Sorting Jumbled Images and Captions into Stories [[arxiv](https://arxiv.org/abs/1606.07493)]
 - Dialog state tracking, a machine reading approach using a memory-enhanced neural network [[arxiv](https://arxiv.org/abs/1606.04052)]
@@ -11,8 +24,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - STransE: a novel embedding model of entities and relationships in knowledge bases [[arxiv](https://arxiv.org/pdf/1606.08140v1.pdf)]
 - Functional Distributional Semantics [[arxiv](https://arxiv.org/pdf/1606.08003v1.pdf)]
 - Sequence-Level Knowledge Distillation [[arxiv](https://arxiv.org/pdf/1606.07947v1.pdf)]
-
-
 - The LAMBADA dataset: Word prediction requiring a broad discourse context [[arxiv](http://arxiv.org/pdf/1606.06031v1.pdf)]
 - DenseCap: Fully Convolutional Localization Networks for Dense Captioning [[link](http://cs.stanford.edu/people/karpathy/densecap.pdf)]
 - Visualizing Dynamics: from t-SNE to SEMI-MDPs [[arxiv](https://arxiv.org/pdf/1606.07112v1.pdf)]
