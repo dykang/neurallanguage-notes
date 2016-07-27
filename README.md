@@ -1,7 +1,25 @@
 # neural language notes
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
-#### TODO
+
+#### 2016-07
+- Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
+ - each word is represented as a bag of character n-grams in skip-gram
+- Neural Machine Translation with Recurrent Attention Modeling [[arxiv](http://arxiv.org/pdf/1607.05108.pdf)]
+- The Role of Discourse Units in Near-Extractive Summarization [[arxiv](http://www.cs.columbia.edu/~kapil/documents/sigdial16edus.pdf)]
+- ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD [[arxiv](http://arxiv.org/pdf/1607.02533.pdf)]
+- Bag of Tricks for Efficient Text Classification [[arxiv](http://arxiv.org/pdf/1607.01759.pdf)]
+- Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks [[arxiv](http://arxiv.org/pdf/1607.01426.pdf)]
+- Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arxiv](http://arxiv.org/pdf/1607.00036.pdf)]
+- STransE: a novel embedding model of entities and relationships in knowledge bases [[naacl16](https://arxiv.org/pdf/1606.08140v2.pdf)]
+- Layer Normalization [[arxiv](https://arxiv.org/abs/1607.06450)]
+- Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering [[arxiv](https://arxiv.org/pdf/1607.06275v1.pdf)]
+- Imitation Learning with Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1607.05241v1.pdf)]
+
+
+
+
+### Papers
 - Target-Side Context for Discriminative Models in Statistical Machine Translation [[arxiv](https://arxiv.org/pdf/1607.01149v1.pdf)]
 - Domain Adaptation for Neural Networks by Parameter Augmentation [[arxiv](https://arxiv.org/pdf/1607.00410v1.pdf)]
 - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization [[arxiv](https://arxiv.org/pdf/1607.00718v1.pdf)]
