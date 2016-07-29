@@ -1,6 +1,8 @@
 # neural language notes
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
+#### 2016-08
+- 
 
 #### 2016-07
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
@@ -15,7 +17,20 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Layer Normalization [[arxiv](https://arxiv.org/abs/1607.06450)]
 - Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering [[arxiv](https://arxiv.org/pdf/1607.06275v1.pdf)]
 - Imitation Learning with Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1607.05241v1.pdf)]
-
+- Neural Name Translation Improves Neural Machine Translation [[arxiv](https://arxiv.org/abs/1607.01856)]
+- query-regression networks for machine comprehension [[arxiv](https://arxiv.org/abs/1606.04582)]
+- Bag of Tricks for Efficient Text Classification [[arxiv](https://arxiv.org/abs/1607.01759)]
+- Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1607.01426)]
+- Sort Story: Sorting Jumbled Images and Captions into Stories [[arxiv](https://arxiv.org/pdf/1606.07493v3.pdf)]
+- Separating Answers from Queries for Neural Reading Comprehension [[arxiv](https://arxiv.org/pdf/1607.03316v2.pdf)]
+- Recurrent Highway Networks [[arxiv](https://arxiv.org/abs/1607.03474)]
+- Charagram: Embedding Words and Sentences via Character n-grams [[arxiv](https://arxiv.org/abs/1607.02789)]
+- ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD [[arxiv](https://arxiv.org/pdf/1607.02533v1.pdf)]
+- Syntax-based Attention Model for Natural Language Inference [[arxiv](https://arxiv.org/pdf/1607.06556v1.pdf)]
+- Open-Vocabulary Semantic Parsing with both Distributional Statistics and Formal Knowledge [[arxiv](https://arxiv.org/abs/1607.03542)]
+- Layer Normalization [[arxiv](http://arxiv.org/pdf/1607.06450.pdf)]
+- Neural Sentence Ordering [[arxiv](https://arxiv.org/pdf/1607.06952v1.pdf) [code](https://github.com/FudanNLP/NeuralSentenceOrdering)]
+- Distilling Word Embeddings: An Encoding Approach [[arxiv](https://arxiv.org/pdf/1506.04488v2.pdf)]
 
 
 
