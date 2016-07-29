@@ -1,5 +1,5 @@
 # neural language notes
-Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
+Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, CVPR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### 2016-08
 - Recurrent Models of Visual Attention [[cvpr](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
@@ -14,6 +14,7 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE [[iclr](http://arxiv.org/pdf/1511.06361v6.pdf)]
 - Neural Module Networks [[arxiv](https://arxiv.org/pdf/1511.02799v3.pdf)]
 - Learning to Compose Neural Networks for Question Answering [[acl](https://aclweb.org/anthology/N/N16/N16-1181.pdf)]
+- Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units [[arxiv](https://arxiv.org/pdf/1603.05201v2.pdf)]
 
 #### 2016-07
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
