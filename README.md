@@ -31,14 +31,15 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Layer Normalization [[arxiv](http://arxiv.org/pdf/1607.06450.pdf)]
 - Neural Sentence Ordering [[arxiv](https://arxiv.org/pdf/1607.06952v1.pdf) [code](https://github.com/FudanNLP/NeuralSentenceOrdering)]
 - Distilling Word Embeddings: An Encoding Approach [[arxiv](https://arxiv.org/pdf/1506.04488v2.pdf)]
-
-
-
-### Papers
 - Target-Side Context for Discriminative Models in Statistical Machine Translation [[arxiv](https://arxiv.org/pdf/1607.01149v1.pdf)]
 - Domain Adaptation for Neural Networks by Parameter Augmentation [[arxiv](https://arxiv.org/pdf/1607.00410v1.pdf)]
 - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization [[arxiv](https://arxiv.org/pdf/1607.00718v1.pdf)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arxiv](https://arxiv.org/pdf/1607.00036v1.pdf)]
+
+
+
+
+#### 2016-06
 - Neural Summarization by Extracting Sentences and Words [[arxiv](https://arxiv.org/pdf/1603.07252v3.pdf)]
 - Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks [[arxiv](http://arxiv.org/pdf/1606.07461.pdf)]
 - Sequence-Level Knowledge Distillation [[arxiv](http://arxiv.org/pdf/1606.07947.pdf)]
@@ -47,7 +48,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - A Correlational Encoder Decoder Architecture for Pivot Based Sequence Generation [[arxiv](https://arxiv.org/pdf/1606.04754v1.pdf)]
 - Smart Reply: Automated Response Suggestion for Email [[arxiv](https://arxiv.org/pdf/1606.04870v1.pdf)]
 - Minimum Risk Training for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1512.02433v3.pdf)]
-
 - Compression of Neural Machine Translation Models via Pruning [[arxiv](https://arxiv.org/abs/1606.09274)]
 - Sort Story: Sorting Jumbled Images and Captions into Stories [[arxiv](https://arxiv.org/abs/1606.07493)]
 - Dialog state tracking, a machine reading approach using a memory-enhanced neural network [[arxiv](https://arxiv.org/abs/1606.04052)]
@@ -102,7 +102,6 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Continuously Learning Neural Dialogue Management [[arxiv](https://arxiv.org/pdf/1606.02689v1.pdf)]
 - A Persona-Based Neural Conversation Model [[arxiv](https://arxiv.org/pdf/1603.06155v2.pdf)]
 - Deep Reinforcement Learning for Dialogue Generation [[arxiv](https://arxiv.org/pdf/1606.01541v2.pdf)]
-
 - A Decomposable Attention Model for Natural Language Inference [[arxiv](https://arxiv.org/abs/1606.01933)]
  - attention matrixs to decompose the problem into subproblems that can be solved separately
 - CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases [[arxiv](https://arxiv.org/abs/1606.01994)]
@@ -115,6 +114,9 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Neural Summarization by Extracting Sentences and Words [[arxiv](https://arxiv.org/abs/1603.07252)]
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arxiv](http://arxiv.org/pdf/1606.00776.pdf)]
 - Generalizing and Hybridizing Count-based and Neural Language Models [[arxiv](http://arxiv.org/pdf/1606.00499.pdf)]
+
+
+#### 2016-05
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/abs/1605.06069)]
 - One-shot Learning with Memory-Augmented Neural Networks [[arxiv](https://arxiv.org/abs/1605.06065)]
 - Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431)]
@@ -171,6 +173,8 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Abstractive Sentence Summarization with Attentive Recurrent Neural Networks [[arxiv](http://harvardnlp.github.io/papers/naacl16_summary.pdf)]
 - Mixed Incremental Cross-Entropy REINFORCE ICLR 2016 [[github](https://github.com/facebookresearch/MIXER)]
 - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow. [[github](https://github.com/blei-lab/edward)]
+
+#### 2016-04
 - Towards Conceptual Compression [[arxiv](https://arxiv.org/abs/1604.08772)]]
 - Teaching natural language to computers [[arxiv](https://arxiv.org/abs/1604.08781)]
 - Pointing the Unknown Words
@@ -193,6 +197,9 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks [[arxiv](http://arxiv.org/abs/1604.00734)]
 - Top-down Tree Long Short-Term Memory Networks [[arxiv](http://arxiv.org/abs/1511.00060)]
 - Recurrent Neural Network Grammars [[arxiv](http://arxiv.org/abs/1602.07776)]
+
+
+#### 2016-03
 - Pointing the Unknown Words [[arxiv](http://arxiv.org/abs/1603.08148)]
 - Neural Programmer: Inducing Latent Programs with Gradient Descent [[arxiv](http://scholar.google.com/scholar_url?url=https://research.google.com/pubs/archive/44927.pdf&hl=en&sa=X&scisig=AAGBfm2VedkF99f2i9IB7m_Ki5ELxJ-SCQ&nossl=1&oi=scholaralrt)]
 - Adversarial Autoencoders []
@@ -234,4 +241,3 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Neural Generative Question Answering [[arxiv](https://arxiv.org/abs/1512.01337)]
 - Recurrent Memory Networks for Language Modeling [[arxiv](https://arxiv.org/abs/1601.01272)]
 - Colorful Image Colorization [[paper](http://arxiv.org/abs/1603.08511)]  [[code](https://github.com/richzhang/colorization)] [[note](/notes/Colorful-Image-Colorization.md)]
-- ...
