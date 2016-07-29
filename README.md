@@ -2,7 +2,18 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, etc. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### 2016-08
-- 
+- Recurrent Models of Visual Attention [[cvpr](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
+- XGBoost: A Scalable Tree Boosting System [[arxiv](http://arxiv.org/pdf/1603.02754v3.pdf)]
+- A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories [[naacl](http://aclweb.org/anthology/N/N16/N16-1098.pdf)]
+- Deep Learning Trends @ ICLR 2016 [[blog](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)]
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arxiv](http://arxiv.org/pdf/1502.03167v3.pdf)]
+- VISUALIZING AND UNDERSTANDING RECURRENT NETWORKS [[iclr](https://arxiv.org/pdf/1506.02078v2.pdf)]
+- Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER [[iclr](http://arxiv.org/pdf/1511.05641v4.pdf)]
+- A Latent Variable Recurrent Neural Network for Discourse Relation Language Models [[arxiv](http://arxiv.org/pdf/1603.01913v2.pdf)]
+- A Recurrent Latent Variable Model for Sequential Data [[arxiv](https://arxiv.org/pdf/1506.02216.pdf)]
+- ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE [[iclr](http://arxiv.org/pdf/1511.06361v6.pdf)]
+- Neural Module Networks [[arxiv](https://arxiv.org/pdf/1511.02799v3.pdf)]
+- Learning to Compose Neural Networks for Question Answering [[acl](https://aclweb.org/anthology/N/N16/N16-1181.pdf)]
 
 #### 2016-07
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
