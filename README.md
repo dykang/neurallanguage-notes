@@ -46,7 +46,11 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Domain Adaptation for Neural Networks by Parameter Augmentation [[arxiv](https://arxiv.org/pdf/1607.00410v1.pdf)]
 - Towards Abstraction from Extraction: Multiple Timescale Gated Recurrent Unit for Summarization [[arxiv](https://arxiv.org/pdf/1607.00718v1.pdf)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arxiv](https://arxiv.org/pdf/1607.00036v1.pdf)]
-
+- Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering [[arxiv](https://arxiv.org/pdf/1607.06275v1.pdf)]
+- Imitation Learning with Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1607.05241v1.pdf)]
+- Attention-over-Attention Neural Networks for Reading Comprehension [[arxiv](https://arxiv.org/pdf/1607.04423v2.pdf)]
+- Neural Tree Indexers for Text Understanding [[arxiv](https://arxiv.org/pdf/1607.04492v1.pdf)]
+- Generating Images Part by Part with Composite Generative Adversarial Networks [[arxiv](https://arxiv.org/pdf/1607.05387v1.pdf)]
 
 
 
