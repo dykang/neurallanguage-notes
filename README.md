@@ -2,6 +2,8 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, CVPR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### 2016-08
+- Supervised Attentions for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1608.00112v1.pdf)]
+- A Neural Knowledge Language Model [[arxiv](https://arxiv.org/pdf/1608.00318v1.pdf)]
 - Recurrent Models of Visual Attention [[cvpr](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
 - XGBoost: A Scalable Tree Boosting System [[arxiv](http://arxiv.org/pdf/1603.02754v3.pdf)]
 - A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories [[naacl](http://aclweb.org/anthology/N/N16/N16-1098.pdf)]
