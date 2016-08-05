@@ -3,7 +3,7 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 
 #### Accepted papers
  - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [NIP16], [ICML16], [ICLR16]
- - [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers) [note](neurallanguage-notes/notes/DLSC16.md)]
+ - [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
 
 #### 2016-08
