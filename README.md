@@ -7,6 +7,14 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 
 
 #### 2016-08
+
+- Learning text representation using recurrent convolutional neural network with highway layers [[arxiv](https://arxiv.org/abs/1606.06905)]
+- Training Very Deep Networks [[arxiv](http://arxiv.org/abs/1507.06228)]
+- SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity [[arxiv](https://arxiv.org/pdf/1608.00869v2.pdf)]
+- Counter-fitting Word Vectors to Linguistic Constraints [[naacl16](http://mi.eng.cam.ac.uk/~nm480/naaclhlt2016.pdf)]
+- Learning Online Alignments with Continuous Rewards Policy Gradient [[arxiv](https://arxiv.org/abs/1608.01281)]
+- NEURAL PROGRAMMER: INDUCING LATENT PROGRAMS WITH GRADIENT DESCENT [[iclr16](https://arxiv.org/abs/1511.04834)]
+
 - Supervised Attentions for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1608.00112v1.pdf)]
 - A Neural Knowledge Language Model [[arxiv](https://arxiv.org/pdf/1608.00318v1.pdf)]
 - Recurrent Models of Visual Attention [[cvpr](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
