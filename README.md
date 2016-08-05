@@ -1,5 +1,10 @@
 # neural language notes
-Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, CVPR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
+Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
+
+#### Accepted papers
+ - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)]
+ - [[NIP16]()], [[ICML16]()], [[ICLR16]()]
+
 
 #### 2016-08
 - Supervised Attentions for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1608.00112v1.pdf)]
