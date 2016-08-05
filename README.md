@@ -2,8 +2,8 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### Accepted papers
- - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)]
- - [[NIP16]()], [[ICML16]()], [[ICLR16]()]
+ - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [NIP16], [ICML16], [ICLR16]
+ - [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers) [note](neurallanguage-notes/notes/DLSC16.md)]
 
 
 #### 2016-08
