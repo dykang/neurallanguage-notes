@@ -2,19 +2,16 @@
 Simple notes and comments on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some relevant domain such as multi-modal learning and deep learning from ICLR, ICML, NIPS. Originally, this is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes).
 
 #### Accepted papers
- - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [NIP16], [ICML16], [ICLR16]
- - [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
+ - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [NIP16], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
 
 #### 2016-08
-
 - Learning text representation using recurrent convolutional neural network with highway layers [[arxiv](https://arxiv.org/abs/1606.06905)]
 - Training Very Deep Networks [[arxiv](http://arxiv.org/abs/1507.06228)]
 - SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity [[arxiv](https://arxiv.org/pdf/1608.00869v2.pdf)]
 - Counter-fitting Word Vectors to Linguistic Constraints [[naacl16](http://mi.eng.cam.ac.uk/~nm480/naaclhlt2016.pdf)]
 - Learning Online Alignments with Continuous Rewards Policy Gradient [[arxiv](https://arxiv.org/abs/1608.01281)]
 - NEURAL PROGRAMMER: INDUCING LATENT PROGRAMS WITH GRADIENT DESCENT [[iclr16](https://arxiv.org/abs/1511.04834)]
-
 - Supervised Attentions for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1608.00112v1.pdf)]
 - A Neural Knowledge Language Model [[arxiv](https://arxiv.org/pdf/1608.00318v1.pdf)]
 - Recurrent Models of Visual Attention [[cvpr](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
