@@ -24,6 +24,7 @@ Simple notes and comments on papers about neural language learning from arxiv, A
 - Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units [[arxiv](https://arxiv.org/pdf/1603.05201v2.pdf)]
 
 #### 2016-07
+- An Actor-Critic Algorithm for Sequence Prediction [[arxiv](http://arxiv.org/abs/1607.07086)]
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
  - each word is represented as a bag of character n-grams in skip-gram
 - Neural Machine Translation with Recurrent Attention Modeling [[arxiv](http://arxiv.org/pdf/1607.05108.pdf)]
