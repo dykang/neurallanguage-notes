@@ -6,6 +6,8 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-08
+- Attention-based Multimodal Neural Machine Translation [[acl16](http://www.aclweb.org/anthology/W/W16/W16-2360.pdf)]
+- A Two-stage Approach for Extending Event Detection to New Types via Neural Networks [[acl16](http://www.aclweb.org/anthology/W/W16/W16-16.pdf#page=172)]
 - Learning text representation using recurrent convolutional neural network with highway layers [[arxiv](https://arxiv.org/abs/1606.06905)]
 - Training Very Deep Networks [[arxiv](http://arxiv.org/abs/1507.06228)]
 - SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity [[arxiv](https://arxiv.org/pdf/1608.00869v2.pdf)]
