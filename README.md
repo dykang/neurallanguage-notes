@@ -6,6 +6,13 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-08
+- Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arxiv](Attend, Infer, Repeat: Fast Scene Understanding with Generative Models)]
+- Architectural Complexity Measures of Recurrent Neural Network [[arxiv](http://arxiv.org/pdf/1602.08210v2.pdf)]
+- Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [[arxiv](https://arxiv.org/pdf/1608.03000v1.pdf)]
+- Canonical Correlation Inference for Mapping Abstract Scenes to Text [[arxiv](https://arxiv.org/pdf/1608.02784v1.pdf)]
+- Temporal Attention Model for Neural Machine Translation [[arxiv](https://arxiv.org/pdf/1608.02927v1.pdf)]
+- Bi-directional Attention with Agreement for Dependency Parsing [[arxiv](https://arxiv.org/pdf/1608.02076v1.pdf)]
+- Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change [[arxiv](https://arxiv.org/pdf/1605.09096v3.pdf)]
 - Recurrent Highway Networks [[arxiv](https://arxiv.org/abs/1607.03474)]
 - Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond [[arxiv](https://arxiv.org/pdf/1602.06023v4.pdf)]
 - WIKIREADING: A Novel Large-scale Language Understanding Task over Wikipedia [[arxiv](https://arxiv.org/abs/1608.03542)]
