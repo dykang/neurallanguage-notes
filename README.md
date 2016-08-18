@@ -6,6 +6,10 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-08
+- Mollifying Networks [[arxiv](https://arxiv.org/abs/1608.04980)]
+- Variational Information Maximizing Exploration [[arxiv](https://arxiv.org/abs/1605.09674)]
+- Does Multimodality Help Human and Machine for Translation and Image Captioning [[arxiv](https://arxiv.org/abs/1605.09186)]
+- Learning values across many orders of magnitude [[arxiv](https://arxiv.org/abs/1602.07714)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arxiv](Attend, Infer, Repeat: Fast Scene Understanding with Generative Models)]
 - Architectural Complexity Measures of Recurrent Neural Network [[arxiv](http://arxiv.org/pdf/1602.08210v2.pdf)]
 - Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge [[arxiv](https://arxiv.org/pdf/1608.03000v1.pdf)]
