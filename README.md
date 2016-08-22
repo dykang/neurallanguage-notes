@@ -6,7 +6,7 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 #### Groups
  - [[DeepMind](https://deepmind.com/publications.html)], [GoogleBrain], [FAIR], [AI2], [MSR]
- - [CMU LTI] [[Stanford NLP](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW NLP](https://www.cs.washington.edu/research/nlp/publications-by-year)]
+ - [CMU LTI] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-08
 - Face2Face: Real-time Face Capture and Reenactment of RGB Videos [[demo](https://www.youtube.com/watch?v=ohmajJTcpNk)]
