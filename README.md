@@ -1,11 +1,18 @@
 # Neural language notes
-Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some machine/deep learning from ICLR, ICML, NIPS. This note is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes). There is also dataset for neural language research [[link](https://github.com/dykang/neurallanguage-data/blob/master/README.md)].
+Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some machine/deep learning from ICLR, ICML, NIPS. This note is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes). There is also dataset for neural language research [[link](https://github.com/dykang/neurallanguage-data)].
 
 #### Accepted papers
- - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [NIP16], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
+ - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
 
 #### 2016-08
+- Face2Face: Real-time Face Capture and Reenactment of RGB Videos [[demo](https://www.youtube.com/watch?v=ohmajJTcpNk)]
+- Image-Space Modal Bases for Plausible Manipulation of Objects in Video [[demo](http://www.interactivedynamicvideo.com/publications.html)]
+- Decoupled neural interfaces using synthetic gradients [[arxiv](http://arxiv.org/abs/1608.05343) [blog](http://deliprao.com/archives/187)]
+- Full Resolution Image Compression with Recurrent Neural Networks [[arxiv](http://arxiv.org/abs/1608.05148)]
+- Who did What: A Large-Scale Person-Centered Cloze Dataset [[arxiv](https://arxiv.org/pdf/1608.05457v1.pdf) [data](https://tticnlp.github.io/who_did_what/)]
+- Pixel Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1601.06759v3.pdf)]
+
 - Mollifying Networks [[arxiv](https://arxiv.org/abs/1608.04980)]
 - Variational Information Maximizing Exploration [[arxiv](https://arxiv.org/abs/1605.09674)]
 - Does Multimodality Help Human and Machine for Translation and Image Captioning [[arxiv](https://arxiv.org/abs/1605.09186)]
