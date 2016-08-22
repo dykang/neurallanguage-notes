@@ -12,7 +12,6 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - Full Resolution Image Compression with Recurrent Neural Networks [[arxiv](http://arxiv.org/abs/1608.05148)]
 - Who did What: A Large-Scale Person-Centered Cloze Dataset [[arxiv](https://arxiv.org/pdf/1608.05457v1.pdf) [data](https://tticnlp.github.io/who_did_what/)]
 - Pixel Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1601.06759v3.pdf)]
-
 - Mollifying Networks [[arxiv](https://arxiv.org/abs/1608.04980)]
 - Variational Information Maximizing Exploration [[arxiv](https://arxiv.org/abs/1605.09674)]
 - Does Multimodality Help Human and Machine for Translation and Image Captioning [[arxiv](https://arxiv.org/abs/1605.09186)]
