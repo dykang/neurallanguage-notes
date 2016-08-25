@@ -5,8 +5,8 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
 #### Groups
- - [[DeepMind](https://deepmind.com/publications.html)], [GoogleBrain], [FAIR], [AI2], [MSR]
- - [CMU LTI] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
+ - [[DeepMind](https://deepmind.com/publications.html)], [[GoogleBrain](http://research.google.com/pubs/BrainTeam.html)], [[FAIR](https://research.facebook.com/publications/ai/)] [[AI2](http://allenai.org/papers.html)], [[MSR](https://www.microsoft.com/en-us/research/research-area/natural-language-processing-speech/?q&content-type=publications)]
+ - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-08
 - Face2Face: Real-time Face Capture and Reenactment of RGB Videos [[demo](https://www.youtube.com/watch?v=ohmajJTcpNk)]
