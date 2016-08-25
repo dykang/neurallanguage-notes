@@ -8,7 +8,17 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[DeepMind](https://deepmind.com/publications.html)], [[GoogleBrain](http://research.google.com/pubs/BrainTeam.html)], [[FAIR](https://research.facebook.com/publications/ai/)] [[AI2](http://allenai.org/papers.html)], [[MSR](https://www.microsoft.com/en-us/research/research-area/natural-language-processing-speech/?q&content-type=publications)]
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
+
+#### 2016-09
+
 #### 2016-08
+- Deep Learning without Poor Local Minima [[nips](https://arxiv.org/abs/1605.07110)]
+- Actor-critic versus direct policy search: a comparison based on sample complexity [[arxiv](https://arxiv.org/abs/1606.09152)]
+- Policy Networks with Two-Stage Training for Dialogue Systems [[arxiv](https://arxiv.org/abs/1606.03152)]
+- Pointing the Unknown Words [[acl](https://arxiv.org/abs/1603.08148)]
+- An Incremental Parser for Abstract Meaning Representation [[arxiv](https://arxiv.org/abs/1608.06111)]
+- Topic Sensitive Neural Headline Generation [[arxiv](https://arxiv.org/abs/1608.05777)]
+- Towards Machine Comprehension of Spoken Content: Initial TOEFL Listening Comprehension Test by Machine [[interspeech](https://arxiv.org/abs/1608.06378)]
 - Face2Face: Real-time Face Capture and Reenactment of RGB Videos [[demo](https://www.youtube.com/watch?v=ohmajJTcpNk)]
 - Image-Space Modal Bases for Plausible Manipulation of Objects in Video [[demo](http://www.interactivedynamicvideo.com/publications.html)]
 - Decoupled neural interfaces using synthetic gradients [[arxiv](http://arxiv.org/abs/1608.05343) [blog](http://deliprao.com/archives/187)]
@@ -71,12 +81,12 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units [[arxiv](https://arxiv.org/pdf/1603.05201v2.pdf)]
 
 #### 2016-07
+- ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD [[arxiv](https://arxiv.org/abs/1607.02533)]
 - An Actor-Critic Algorithm for Sequence Prediction [[arxiv](http://arxiv.org/abs/1607.07086)]
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
  - each word is represented as a bag of character n-grams in skip-gram
 - Neural Machine Translation with Recurrent Attention Modeling [[arxiv](http://arxiv.org/pdf/1607.05108.pdf)]
 - The Role of Discourse Units in Near-Extractive Summarization [[arxiv](http://www.cs.columbia.edu/~kapil/documents/sigdial16edus.pdf)]
-- ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD [[arxiv](http://arxiv.org/pdf/1607.02533.pdf)]
 - Bag of Tricks for Efficient Text Classification [[arxiv](http://arxiv.org/pdf/1607.01759.pdf)]
 - Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks [[arxiv](http://arxiv.org/pdf/1607.01426.pdf)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arxiv](http://arxiv.org/pdf/1607.00036.pdf)]
@@ -246,6 +256,7 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow. [[github](https://github.com/blei-lab/edward)]
 
 #### 2016-04
+- Dialog-based Language Learning [[arxiv](https://arxiv.org/abs/1604.06045)]
 - Towards Conceptual Compression [[arxiv](https://arxiv.org/abs/1604.08772)]]
 - Teaching natural language to computers [[arxiv](https://arxiv.org/abs/1604.08781)]
 - Pointing the Unknown Words
