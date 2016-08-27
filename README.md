@@ -1,7 +1,7 @@
 # Neural language notes
 Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some machine/deep learning from ICLR, ICML, NIPS. This note is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes). There is also dataset for neural language research [[link](https://github.com/dykang/neurallanguage-data)].
 
-# TODO
+#### TODO
 - [ ] votes for papers (e.g., :+1:)
 - [ ] automatic crawler for citation and search counts (e.g., cite+51, tweets+42, search+523 )
 
