@@ -1,6 +1,10 @@
 # Neural language notes
 Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some machine/deep learning from ICLR, ICML, NIPS. This note is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes). There is also dataset for neural language research [[link](https://github.com/dykang/neurallanguage-data)].
 
+# TODO
+- [ ] votes for papers
+- [ ] automatic crawler for citation and search counts from Google
+
 #### Accepted papers
  - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
