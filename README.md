@@ -6,11 +6,11 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - [ ] automatic crawler for citation and search counts (e.g., cite+51, tweets+42, search+523 )
 
 #### Accepted papers
- - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [ICML16], [ICLR16] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
+ - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [[ICML16](http://icml.cc/2016/?page_id=1649)], [[ICLR16](http://www.iclr.cc/doku.php?id=iclr2016:main&#accepted_papers_conference_track)] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
 
 #### Groups
  - [[DeepMind](https://deepmind.com/publications.html)], [[GoogleBrain](http://research.google.com/pubs/BrainTeam.html)], [[FAIR](https://research.facebook.com/publications/ai/)] [[AI2](http://allenai.org/papers.html)], [[MSR](https://www.microsoft.com/en-us/research/research-area/natural-language-processing-speech/?q&content-type=publications)]
- - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal MILA](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
+ - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 
 #### 2016-09
