@@ -16,6 +16,15 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 #### 2016-09
 
 #### 2016-08
+- A Context-aware Natural Language Generator for Dialogue Systems [[sigdial](https://arxiv.org/abs/1608.07076)]
+- Investigation Into The Effectiveness Of Long Short Term Memory Networks For Stock Price Prediction [[axiv](https://arxiv.org/abs/1603.07893)]
+- HIERARCHICAL ATTENTION MODEL FOR IMPROVED MACHINE COMPREHENSION OF SPOKEN CONTENT [[arxiv](https://arxiv.org/abs/1608.07775)]
+- Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning [[arxiv](https://arxiv.org/pdf/1605.08104v3.pdf)]
+- Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arxiv](http://arxiv.org/abs/1506.05751) [code](https://github.com/facebook/eyescream)]
+- Progressive Neural Networks [[arxiv](https://arxiv.org/pdf/1606.04671v2.pdf)]
+- Neural Variational Inference for Text Processing [[arxiv](http://arxiv.org/pdf/1511.06038v4.pdf)]
+- Generative Adversarial Text to Image Synthesis [[arxiv](http://arxiv.org/pdf/1605.05396v2.pdf) [code](https://github.com/reedscot/icml2016)]
+- Sequential Neural Models with Stochastic Layers [[nips](https://arxiv.org/pdf/1605.07571.pdf)]
 - Deep Learning without Poor Local Minima [[nips](https://arxiv.org/abs/1605.07110)]
 - Actor-critic versus direct policy search: a comparison based on sample complexity [[arxiv](https://arxiv.org/abs/1606.09152)]
 - Policy Networks with Two-Stage Training for Dialogue Systems [[arxiv](https://arxiv.org/abs/1606.03152)]
@@ -85,6 +94,7 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units [[arxiv](https://arxiv.org/pdf/1603.05201v2.pdf)]
 
 #### 2016-07
+- Constructing a Natural Language Inference Dataset using Generative Neural Networks [[arxiv](http://arxiv.org/abs/1607.06025)]
 - ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD [[arxiv](https://arxiv.org/abs/1607.02533)]
 - An Actor-Critic Algorithm for Sequence Prediction [[arxiv](http://arxiv.org/abs/1607.07086)]
 - Enriching Word Vectors with Subword Information [[arxiv](http://arxiv.org/pdf/1607.04606.pdf)]
@@ -202,9 +212,11 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-05
+- Variational Neural Machine Translation [[arxiv](http://arxiv.org/abs/1605.07869)]
+- Deep Generative Models with Stick-Breaking Priors [[arxiv](http://arxiv.org/abs/1605.06197)]
 - A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[arxiv](https://arxiv.org/abs/1605.06069)]
 - One-shot Learning with Memory-Augmented Neural Networks [[arxiv](https://arxiv.org/abs/1605.06065)]
-- Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431)]
+- Residual Networks are Exponential Ensembles of Relatively Shallow Networks [[arxiv](https://arxiv.org/abs/1605.06431) [code](https://github.com/KaimingHe/deep-residual-networks)]
 - Dialog-based Language Learning [[arxiv](https://arxiv.org/abs/1604.06045)]
 - Modelling Interaction of Sentence Pair with coupled-LSTMs [[arxiv](https://arxiv.org/abs/1605.05573)]
 - Functional Hashing for Compressing Neural Networks [[arxiv](https://arxiv.org/abs/1605.06560)]
