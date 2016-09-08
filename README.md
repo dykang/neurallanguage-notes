@@ -14,6 +14,12 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-09
+- End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arxiv](https://arxiv.org/pdf/1609.00777v1.pdf)]
+- Citation Classification for Behavioral Analysis of a Scientific Field [[arxiv](https://arxiv.org/pdf/1609.00435v1.pdf)]
+- Reward Augmented Maximum Likelihood for Neural Structured Prediction [[arxiv](https://arxiv.org/pdf/1609.00150v1.pdf)]
+- All Fingers are not Equal: Intensity of References in Scientific Articles [[emnlp](https://arxiv.org/pdf/1609.00081v1.pdf)]
+- WAVENET: A GENERATIVE MODEL FOR RAW AUDIO [[paper](https://drive.google.com/file/d/0B3cxcnOkPx9AeWpLVXhkTDJINDQ/view) [blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)]
+- Hierarchical Multiscale Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1609.01704v2.pdf)]
 
 #### 2016-08
 - A Context-aware Natural Language Generator for Dialogue Systems [[sigdial](https://arxiv.org/abs/1608.07076)]
