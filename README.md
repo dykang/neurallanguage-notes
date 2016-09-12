@@ -3,7 +3,7 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 #### TODO
 - [ ] votes for papers (e.g., :+1:)
-- [ ] automatic crawler for citation and search counts (e.g., cite+51, tweets+42, search+523 )
+- [ ] automatic crawler for citation and search counts (e.g., cite+51, tweets+42, search+523 ) like [this](https://github.com/Smerity/trending_arxiv)
 
 #### Accepted papers
  - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [[ICML16](http://icml.cc/2016/?page_id=1649)], [[ICLR16](http://www.iclr.cc/doku.php?id=iclr2016:main&#accepted_papers_conference_track)] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
