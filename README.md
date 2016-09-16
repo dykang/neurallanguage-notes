@@ -14,6 +14,20 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 
 
 #### 2016-09
+- Generating Videos with Scene Dynamics [[arxiv](https://arxiv.org/abs/1609.02612)]
+- On the Similarities Between Native, Non-native and Translated Texts [[arxiv](https://arxiv.org/abs/1609.03204)]
+- Energy-based Generative Adversarial Network [[arxiv](https://arxiv.org/abs/1609.03126)]
+- Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks [[arxiv](https://arxiv.org/abs/1609.03286)]
+- Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks [[arxiv](https://arxiv.org/pdf/1609.02993v2.pdf)]
+- WAVENET: A GENERATIVE MODEL FOR RAW AUDIO [[arxiv](https://arxiv.org/pdf/1609.03499v1.pdf)]
+- Multimodal Attention for Neural Machine Translation [[arxiv](https://arxiv.org/abs/1609.03976)]
+- Neural Machine Translation with Supervised Attention [[arxiv](https://arxiv.org/abs/1609.04186)]
+- Formalizing Neurath's Ship: Approximate Algorithms for Online Causal Learning [[arxiv](https://arxiv.org/abs/1609.04212)]
+- Factored Neural Machine Translation [[arxiv](https://arxiv.org/abs/1609.04621)]  
+- Discrete Variational Autoencoders [[arxiv](https://arxiv.org/abs/1609.02200)]
+- Deep Reinforcement Learning with a Combinatorial Action Space for Predicting Popular Reddit Threads [[arxiv](https://arxiv.org/abs/1606.03667)]
+- lamtram: A toolkit for language and translation modeling using neural networks [[github](https://github.com/neubig/lamtram)] 
+- C++ neural network library [[github](https://github.com/clab/cnn)]
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arxiv](https://arxiv.org/pdf/1609.00777v1.pdf)]
 - Citation Classification for Behavioral Analysis of a Scientific Field [[arxiv](https://arxiv.org/pdf/1609.00435v1.pdf)]
 - Reward Augmented Maximum Likelihood for Neural Structured Prediction [[arxiv](https://arxiv.org/pdf/1609.00150v1.pdf)]
