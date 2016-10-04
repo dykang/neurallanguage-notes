@@ -12,8 +12,13 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[DeepMind](https://deepmind.com/publications.html)], [[GoogleBrain](http://research.google.com/pubs/BrainTeam.html)], [[FAIR](https://research.facebook.com/publications/ai/)] [[AI2](http://allenai.org/papers.html)], [[MSR](https://www.microsoft.com/en-us/research/research-area/natural-language-processing-speech/?q&content-type=publications)]
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
+#### 2016-10
+- Learning to Translate in Real-time with Neural Machine Translation [[axiv](https://arxiv.org/abs/1610.00388)]
+- A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs [[axiv](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/Sentence_Compression_camera.pdf)]
 
 #### 2016-09
+- Unsupervised Neural Hidden Markov Models [[arxiv](https://arxiv.org/pdf/1609.09007v1.pdf)]
+- Creating Causal Embeddings for Question Answering with Minimal Supervision [[axiv](https://arxiv.org/pdf/1609.08097.pdf)]
 - Generating Videos with Scene Dynamics [[arxiv](https://arxiv.org/abs/1609.02612)]
 - On the Similarities Between Native, Non-native and Translated Texts [[arxiv](https://arxiv.org/abs/1609.03204)]
 - Energy-based Generative Adversarial Network [[arxiv](https://arxiv.org/abs/1609.03126)]
