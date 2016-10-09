@@ -17,6 +17,12 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
 - A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs [[axiv](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/Sentence_Compression_camera.pdf)]
 
 #### 2016-09
+- SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient [[arxiv](https://arxiv.org/abs/1609.05473)]
+- ReasoNet: Learning to Stop Reading in Machine Comprehension [[arxiv](https://arxiv.org/abs/1609.05284)]
+- SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity [[arxiv](https://arxiv.org/abs/1608.00869)]
+- NEURAL PHOTO EDITING WITH INTROSPECTIVE ADVERSARIAL NETWORKS [[arxiv](https://arxiv.org/abs/1609.07093)]
+- Language as a Latent Variable: Discrete Generative Models for Sentence Compression [[arxiv](https://arxiv.org/abs/1609.07317)]
+- Annotating Derivations: A New Evaluation Strategy and Dataset for Algebra Word Problems [[arxiv](https://arxiv.org/abs/1609.07197)]
 - Unsupervised Neural Hidden Markov Models [[arxiv](https://arxiv.org/pdf/1609.09007v1.pdf)]
 - Creating Causal Embeddings for Question Answering with Minimal Supervision [[axiv](https://arxiv.org/pdf/1609.08097.pdf)]
 - Generating Videos with Scene Dynamics [[arxiv](https://arxiv.org/abs/1609.02612)]
