@@ -13,6 +13,10 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-10
+- Recurrent Neural Network Grammars [[arxiv](https://arxiv.org/abs/1602.07776)]
+- Connecting Generative Adversarial Networks and Actor-Critic Methods [[arxiv](https://arxiv.org/abs/1610.01945)]
+- Semantic Parsing with Semi-Supervised Sequential Autoencoders [[arxiv](https://arxiv.org/abs/1609.09315)]
+- Grounding the Lexical Sets of Causative-Inchoative Verbs with Word Embedding [[arxiv](https://arxiv.org/abs/1610.00765)]
 - Learning to Translate in Real-time with Neural Machine Translation [[axiv](https://arxiv.org/abs/1610.00388)]
 - A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs [[axiv](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/09/Sentence_Compression_camera.pdf)]
 
