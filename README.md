@@ -13,6 +13,7 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-10
+- Learning to Translate in Real-time with Neural Machine Translation [[arxiv](https://arxiv.org/abs/1610.00388)]
 - Recurrent Neural Network Grammars [[arxiv](https://arxiv.org/abs/1602.07776)]
 - Connecting Generative Adversarial Networks and Actor-Critic Methods [[arxiv](https://arxiv.org/abs/1610.01945)]
 - Semantic Parsing with Semi-Supervised Sequential Autoencoders [[arxiv](https://arxiv.org/abs/1609.09315)]
