@@ -13,6 +13,9 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-10
+- A Paradigm for Situated and Goal-Driven Language Learning [[arxiv](https://arxiv.org/pdf/1610.03585v1.pdf)]
+- A Theme-Rewriting Approach for Generating Algebra Word Problems [[arxiv](https://arxiv.org/pdf/1610.06210v1.pdf)]
+- Lexicons and Minimum Risk Training for Neural Machine Translation: NAIST-CMU at WAT2016 [[arxiv](https://arxiv.org/pdf/1610.06542v1.pdf)]
 - Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation [[arxiv](https://arxiv.org/pdf/1602.05179v4.pdf)]
 - Cross-Sentence Inference for Process Knowledge [[emnlp](http://ai2-website.s3.amazonaws.com/publications/spock_emnlp.pdf)]
 - Learning to Translate in Real-time with Neural Machine Translation [[arxiv](https://arxiv.org/abs/1610.00388)]
