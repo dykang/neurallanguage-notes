@@ -1,18 +1,27 @@
 # Neural language notes
 Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NAACL, and some machine/deep learning from ICLR, ICML, NIPS. This note is inspired by [Denny Britz's notes](https://github.com/dennybritz/deeplearning-papernotes). There is also dataset for neural language research [[link](https://github.com/dykang/neurallanguage-data)].
 
-#### Conference Papers
+#### Conference Papers & Groups
  - [[NAACL16](http://naacl.org/naacl-hlt-2016/accepted_papers.html)], [[ACL16](http://acl2016.org/index.php?article_id=68)], [[EMNLP16](http://www.emnlp2016.net/accepted-papers.html)], [[NIPS16](https://nips.cc/Conferences/2016/AcceptedPapers)], [[ICML16](http://icml.cc/2016/?page_id=1649)], [[ICLR16](http://www.iclr.cc/doku.php?id=iclr2016:main&#accepted_papers_conference_track)] [[DLSC16](https://sites.google.com/site/deeplearningsummerschool2016/speakers), [note](https://github.com/dykang/neurallanguage-notes/blob/master/notes/DLSC16.md)]
-
-#### Groups
  - [[DeepMind](https://deepmind.com/publications.html)], [[GoogleBrain](http://research.google.com/pubs/BrainTeam.html)], [[FAIR](https://research.facebook.com/publications/ai/)] [[AI2](http://allenai.org/papers.html)], [[MSR](https://www.microsoft.com/en-us/research/research-area/natural-language-processing-speech/?q&content-type=publications)]
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-11
+- MODULAR MULTITASK REINFORCEMENT LEARNING WITH POLICY SKETCHES [[arxiv](https://arxiv.org/abs/1611.01796)]
+- Neural Machine Translation with Reconstruction [[arxiv](https://arxiv.org/abs/1611.01874)]
+- TOPICRNN: A RECURRENT NEURAL NETWORK WITH LONG-RANGE SEMANTIC DEPENDENCY [[arxiv](https://arxiv.org/pdf/1611.01702v1.pdf)]
+- REFERENCE-AWARE LANGUAGE MODELS [[arxiv](https://arxiv.org/abs/1611.01628)]
+- A JOINT MANY-TASK MODEL: GROWING A NEURAL NETWORK FOR MULTIPLE NLP TASKS [[arxiv](https://arxiv.org/abs/1611.01587)]
+- Ordinal Common-sense Inference [[arxiv](https://arxiv.org/pdf/1611.00601v2.pdf)]
+- Dual Learning for Machine Translation [[arxiv](https://arxiv.org/pdf/1611.00179v1.pdf)]
 - Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision [[arxiv](https://arxiv.org/pdf/1611.00020.pdf)]
 - What’s in an Explanation? Characterizing Knowledge and Inference Requirements for Elementary Science Exams [[coling](http://www.surdeanu.info/mihai/papers/coling2016-qa.pdf)]
 
 #### 2016-10
+- Cross-Modal Scene Networks [[arxiv](https://arxiv.org/abs/1610.09003)]
+- IMPROVING SAMPLING FROM GENERATIVE AUTOENCODERS WITH MARKOV CHAINS [[arxiv[(https://arxiv.org/pdf/1610.09296v2.pdf)]
+- Towards a continuous modeling of natural language domains [[arxiv](https://arxiv.org/pdf/1610.09158v1.pdf)]
+- Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification [[arxiv](https://arxiv.org/pdf/1606.01614v2.pdf)]
 - Socratic Learning [[arxiv](https://arxiv.org/pdf/1610.08123.pdf)]
 - Professor Forcing: A New Algorithm for Training Recurrent Networks [[arxiv](https://arxiv.org/pdf/1610.09038.pdf)]
 - A Paradigm for Situated and Goal-Driven Language Learning [[arxiv](https://arxiv.org/pdf/1610.03585v1.pdf)]
