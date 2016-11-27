@@ -7,6 +7,11 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-11
+- Grammar Argumented LSTM Neural Networks with Note-Level Encoding for Music Composition [[arxiv](https://arxiv.org/pdf/1611.05416v1.pdf)]
+- PIXELVAE: A LATENT VARIABLE MODEL FOR NATURAL IMAGES [[arxiv](https://arxiv.org/pdf/1611.05013v1.pdf)]
+- VARIATIONAL LOSSY AUTOENCODER [[arxiv](https://arxiv.org/pdf/1611.02731v1.pdf)]
+- Generative Deep Neural Networks for Dialogue: A Short Review [[arxiv](https://arxiv.org/pdf/1611.06216.pdf)]
+- Variational Graph Auto-Encoders [[arxiv](https://arxiv.org/pdf/1611.07308.pdf)]
 - MODULAR MULTITASK REINFORCEMENT LEARNING WITH POLICY SKETCHES [[arxiv](https://arxiv.org/abs/1611.01796)]
 - Neural Machine Translation with Reconstruction [[arxiv](https://arxiv.org/abs/1611.01874)]
 - TOPICRNN: A RECURRENT NEURAL NETWORK WITH LONG-RANGE SEMANTIC DEPENDENCY [[arxiv](https://arxiv.org/pdf/1611.01702v1.pdf)]
