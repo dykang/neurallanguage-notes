@@ -7,6 +7,10 @@ Simple notes on papers about neural language learning from arxiv, ACL, EMNLP, NA
  - [[CMU](https://www.lti.cs.cmu.edu/work)] [[Stanford](http://nlp.stanford.edu/pubs/)]  [[Berkeley](http://nlp.cs.berkeley.edu/publications.shtml)] [[Montreal](https://mila.umontreal.ca/en/publications/)] [[UW](https://www.cs.washington.edu/research/nlp/publications-by-year)]
 
 #### 2016-11
+- LEARNING TO COMPOSE WORDS INTO SENTENCES WITH REINFORCEMENT LEARNING [[arxiv](https://arxiv.org/pdf/1611.09100.pdf)]
+- NEWSQA: A MACHINE COMPREHENSION DATASET [[arxiv](https://arxiv.org/pdf/1611.09830v1.pdf)]
+- Context-aware Natural Language Generation with Recurrent Neural Networks [[arxiv](https://arxiv.org/pdf/1611.09900v1.pdf)]
+- LEARNING FEATURES OF MUSIC FROM SCRATCH [[arxiv](https://arxiv.org/pdf/1611.09827v1.pdf) [data](http://homes.cs.washington.edu/~thickstn/musicnet.html)]
 - Grammar Argumented LSTM Neural Networks with Note-Level Encoding for Music Composition [[arxiv](https://arxiv.org/pdf/1611.05416v1.pdf)]
 - PIXELVAE: A LATENT VARIABLE MODEL FOR NATURAL IMAGES [[arxiv](https://arxiv.org/pdf/1611.05013v1.pdf)]
 - VARIATIONAL LOSSY AUTOENCODER [[arxiv](https://arxiv.org/pdf/1611.02731v1.pdf)]
